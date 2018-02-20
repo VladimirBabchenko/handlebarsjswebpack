@@ -10,7 +10,8 @@ var UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 
 module.exports = {
     entry: {
-        app: path.join(__dirname, "./src/app.js")
+        app: path.join(__dirname, "./src/app.js"),
+        app1: path.join(__dirname, "./src/app1.js")
     },
     output: {
         path: path.join(__dirname, "./dist"),

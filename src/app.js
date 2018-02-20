@@ -1,4 +1,4 @@
-var Handlebars = require("handlebars/dist/handlebars.min.js");
+// var Handlebars = require("handlebars/dist/handlebars.min.js");
 require("./scss/main.scss");
 // require("./scss/main.scss");
 // require("./css/grid.css");
